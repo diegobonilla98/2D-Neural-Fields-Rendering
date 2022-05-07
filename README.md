@@ -12,6 +12,7 @@ I've shared on my LinkedIn page: https://www.linkedin.com/posts/diego-bonilla-sa
 
 ## Derivation
 One can calculate the derivate of the color in respect of the input position to measure the changes. It can be only done with Black and White images.
+
 ![](dog_derivate_image.png)
 
 
